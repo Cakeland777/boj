@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author yujin
+ *
+ */
+module boj {
+}
